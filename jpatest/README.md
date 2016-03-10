@@ -2,5 +2,5 @@
 
 > Spring4+JPA2(HIbernate 提供的实现)
 
-## 项目说明
+> 项目jpatest -> JPA的泛型DAO设计及使用
 
